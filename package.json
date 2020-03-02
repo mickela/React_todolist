@@ -1,6 +1,6 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
+  "name": "Todo-app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.10.2",
@@ -27,5 +27,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage" : "https://www.codemaniac.net/"
 }
